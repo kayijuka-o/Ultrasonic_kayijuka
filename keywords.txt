@@ -1,0 +1,4 @@
+Ultrasonic_Kayijuka	KEYWORD1
+readCM	KEYWORD2
+readInch	KEYWORD2
+readMicroseconds	KEYWORD2
